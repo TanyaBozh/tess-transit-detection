@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+tess-eleanor/
+
+# Local configuration and secrets
+.env
+*.local
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Caches
+.cache/
+.lightkurve/
